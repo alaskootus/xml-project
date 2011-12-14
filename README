@@ -1,0 +1,11 @@
+Class a execute pour la gestion des fichiers text ->GestionFichierText.java
+
+A creer dans le repertoire du projet:
+
+*Package fileTextGestion  
+  => ce package contient les classes (FichierText/Message/Bloc/Information/Composite/Simple/GestionFichierText)
+
+*Un repertoire -> fichiersText (contenant les fichiers textes).
+  ex: facture1.txt
+  - Pour utiliser ce fichier dans la classe GestionFichierText : utiliser le chemin (fichiersText/facture1.txt)
+
